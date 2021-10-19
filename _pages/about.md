@@ -30,16 +30,16 @@ Selected Publications
 
 3.  **<font color='lightskyblue'> [TSE' 21] </font> <font color='limeGreen'>Research on Third-Party Libraries in Android Apps: A Taxonomy and Comprehensive Survey[J] </font>** 
   
-  **Xian Zhan**, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
+    **Xian Zhan**, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
     
 4.  **<font color='lightskyblue'> [CCS' 21] </font> <font color='limeGreen'> Structural Attack against Graph Based Android Malware Detection[C]</font>**
   
-  Kaifa Zhao, Hao Zhou, Yulin Zhu, **Xian Zhan**, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  **<font color='Red'>(CCF-A)</font>**
+    Kaifa Zhao, Hao Zhou, Yulin Zhu, **Xian Zhan**, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  **<font color='Red'>(CCF-A)</font>**
 
 5.  **<font color='lightskyblue'> [ICSE' 21]</font> <font color='limeGreen'>ATVHunter: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Apps[C]</font>**
   
-  **Xian Zhan**, Lingling Fan, Sen Chen, Feng Wu, Tianming Liu, Xiapu Luo and Yang Liu   **<font color='Red'>(CCF-A)</font>**
-  ***<font color='Gold'> <i class="fas fa-trophy"></i></font>***  ***<font color='Red'>ACM SIGSOFT Distinguished Paper Award</font>***
+    **Xian Zhan**, Lingling Fan, Sen Chen, Feng Wu, Tianming Liu, Xiapu Luo and Yang Liu   **<font color='Red'>(CCF-A)</font>**
+    ***<font color='Gold'> <i class="fas fa-trophy"></i></font>***  ***<font color='Red'>ACM SIGSOFT Distinguished Paper Award</font>***
    
   
   
