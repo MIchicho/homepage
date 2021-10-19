@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Chicho's Homepage"
 title_separator          : "-"
-name                     : &name "Xian Zhan"
+name                     : &name "Xian Zhan (展鹇)"
 description              : &description "personal description"
 url                      : https://michicho.github.io/homepage # the base hostname & protocol for your site e.g. "https://michicho.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xian Zhan"
   avatar           : "xian.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. student at the Hong Kong Polytechnic University (PolyU)"
+  location         : "Hong Kong, Hung Hom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pp8eBTYAAAAJ&hl=zh-CN"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "xianzhan@polyu.edu.hk"
+  researchgate     : "https://www.researchgate.net/profile/Zhan-Xian-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
