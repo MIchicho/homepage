@@ -19,17 +19,40 @@ My research interests are but not limited to program analysis, system security, 
 
 
 
-Publications
+Selected Publications
 ---
 
- 1. **<font color='lightskyblue'>[USENIX Security' 22]</font> <font color='limeGreen'> FOAP: Fine-Grained Open-World Android App Fingerprinting[C]</font>**                              
+ 1. **<font color='lightskyblue'>[USENIX Security' 22]</font> <font color='limeGreen'> FOAP: Fine-Grained Open-World Android App Fingerprinting[C]</font>**                         
  Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, **Xian Zhan**, Xiaobo Ma  **<font color='Red'>(CCF-A)</font>**
 
 2.  **<font color='lightskyblue'> [TSE' 21] </font> <font color='limeGreen'>A Systematic Assessment on Android Third-party Library Detection Tools[J] </font>** 
-
-    **Xian Zhan**, Tianming Liu, Yepang Liu, Yang Liu, Li Li, Haoyu Wang, Xiapu Luo, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
+ **Xian Zhan**, Tianming Liu, Yepang Liu, Yang Liu, Li Li, Haoyu Wang, Xiapu Luo, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
 
 3.  **<font color='lightskyblue'> [TSE' 21] </font> <font color='limeGreen'>Research on Third-Party Libraries in Android Apps: A Taxonomy and Comprehensive Survey[J] </font>** 
    
     **Xian Zhan**, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
+    
+4.  **<font color='lightskyblue'> [CCS' 21] </font> <font color='limeGreen'> Structural Attack against Graph Based Android Malware Detection[C]</font>**
+     
+     Kaifa Zhao, Hao Zhou, Yulin Zhu, **Xian Zhan**, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  **<font color='Red'>(CCF-A)</font>**
+
+5.  **<font color='lightskyblue'> [ICSE' 21]</font> <font color='limeGreen'>ATVHunter: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Apps[C]</font>**
+    	
+      **Xian Zhan**, Lingling Fan, Sen Chen, Feng Wu, Tianming Liu, Xiapu Luo and Yang Liu   **<font color='Red'>(CCF-A)</font>**
+      <i class="fas fa-trophy"></i>  ***<font color='Red'>ACM SIGSOFT Distinguished Paper Award</font>***
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
