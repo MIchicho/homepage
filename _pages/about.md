@@ -32,12 +32,10 @@ Selected Publications
   **Xian Zhan**, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
     
 4.  **<font color='lightskyblue'> [CCS' 21] </font> <font color='limeGreen'> Structural Attack against Graph Based Android Malware Detection[C]</font>**
-     
-     Kaifa Zhao, Hao Zhou, Yulin Zhu, **Xian Zhan**, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  **<font color='Red'>(CCF-A)</font>**
+   Kaifa Zhao, Hao Zhou, Yulin Zhu, **Xian Zhan**, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  **<font color='Red'>(CCF-A)</font>**
 
 5.  **<font color='lightskyblue'> [ICSE' 21]</font> <font color='limeGreen'>ATVHunter: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Apps[C]</font>**
-    	
-      **Xian Zhan**, Lingling Fan, Sen Chen, Feng Wu, Tianming Liu, Xiapu Luo and Yang Liu   **<font color='Red'>(CCF-A)</font>**
+    **Xian Zhan**, Lingling Fan, Sen Chen, Feng Wu, Tianming Liu, Xiapu Luo and Yang Liu   **<font color='Red'>(CCF-A)</font>**
       <i class="fas fa-trophy"></i>  ***<font color=''>ACM SIGSOFT Distinguished Paper Award</font>***
    
   
