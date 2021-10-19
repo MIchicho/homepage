@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Chicho / Homepage"
 title_separator          : "-"
 name                     : &name "Xian Zhan"
 description              : &description "personal description"
