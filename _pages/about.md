@@ -15,7 +15,7 @@ redirect_from:
 
 I am a Ph.D student from the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). I am also very fortunate to be supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) and [Prof. Yepang Liu](https://yepangliu.github.io/). Before coming to PolyU, I obtained my B.Eng degree in the School of Computer, Wuhan University.
 
-My research interests are but not limited to program analysis, system security, mobile security, software ecosystem analysis, HCI and Big data-driven Analysis.
+My research interests are but not limited to program analysis, system security, mobile security, software ecosystem analysis, and Big data-driven Analysis.
 
 
 
@@ -29,8 +29,7 @@ Selected Publications
  **Xian Zhan**, Tianming Liu, Yepang Liu, Yang Liu, Li Li, Haoyu Wang, Xiapu Luo, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
 
 3.  **<font color='lightskyblue'> [TSE' 21] </font> <font color='limeGreen'>Research on Third-Party Libraries in Android Apps: A Taxonomy and Comprehensive Survey[J] </font>** 
-   
-    **Xian Zhan**, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
+   **Xian Zhan**, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu, ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
     
 4.  **<font color='lightskyblue'> [CCS' 21] </font> <font color='limeGreen'> Structural Attack against Graph Based Android Malware Detection[C]</font>**
      
