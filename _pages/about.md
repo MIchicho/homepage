@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-## About Me
+
 
 
 I am a Ph.D student from the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). I am also fortunate to be supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) and [Prof. Yepang Liu](https://yepangliu.github.io/). Before coming to Polyu, I obtained my B.Eng degree in the School of Computer, Wuhan University.
