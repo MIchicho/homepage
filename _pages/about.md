@@ -28,7 +28,7 @@ Honors and Awards
 
 <i class="fas fa-crown"></i> **The Hong Kong PhD fellowship Award (HKPFS)** (about 250 phd students are awarded each year, the most prestige scholarship for HK Ph.D. candidates.)
 
-<i class="fas fa-crown"></i> COMP scholarship of the Hong Kong Polytechnic University
+<i class="fas fa-crown"></i> **COMP scholarship of the Hong Kong Polytechnic University**
 
 <i class="fas fa-crown"></i> **Google Excellent Scholarship**, 2012-2013, (Only 66 undergraduates in China were awarded)
 
