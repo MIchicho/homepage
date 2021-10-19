@@ -23,18 +23,30 @@ Honors and Awards
 ----
 
 <i class="fas fa-award"></i> ACM SIGSOFT Distinguished Paper (ICSE), 2021
+
 <i class="fas fa-award"></i> The First prize of the Student Research Competition - PolyU COMP Annual Research Day, 2019
+
 <i class="fas fa-award"></i> The Hong Kong PhD fellowship Award (HKPFS) (about 250 phd students are awarded each year, the most prestige scholarship for HK Ph.D. candidates.)
+
 <i class="fas fa-award"></i> COMP scholarship of the Hong Kong Polytechnic University
+
 <i class="fas fa-award"></i> Google Excellent Scholarship}, 2012-2013, (Only 66 undergraduates in China were awarded)
+
 <i class="fas fa-award"></i> Wuhan University Excellent Undergraduate (Top 3%)
+
 <i class="fas fa-award"></i> Hubei Excellent Undergraduate Thesis Award
+
 <i class="fas fa-award"></i> **Leader, First prize** of the Innovation and Entrepreneurship projects for University Students (Top 5\%)
+
 <i class="fas fa-award"></i> **First prize** of the 6th National Undergraduate Information Security Competition (16/120), 2013
+
 <i class="fas fa-award"></i> **First prize** of the 5th National Undergraduate Information Security Competition (16/118), 2012
+
 <i class="fas fa-award"></i> **First-class scholarship** of Wuhan University, 2012-2013
+
 <i class="fas fa-award"></i>  **Outstanding student** of Wuhan University (3 times), 2011-2013
-<i class="fas fa-award"></i> **Second-class** scholarship of Wuhan University (2 times), 2011-2012
+
+<i class="fas fa-crown"></i> **Second-class** scholarship of Wuhan University (2 times), 2011-2012
 
 
 Software Copyright
