@@ -26,8 +26,8 @@ Publications
  Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, **Xian Zhan**, Xiaobo Ma  **<font color='Red'>(CCF-A)</font>**
 
 2.  **<font color='lightskyblue'> [TSE' 21] </font> <font color='limeGreen'>A Systematic Assessment on Android Third-party Library Detection Tools[J] </font>** 
-    **Xian Zhan**, Tianming Liu, Yepang Liu, Yang Liu, Li Li, Haoyu Wang, Xiapu Luo **<font color='Red'>(CCF-A)</font>**
+    **Xian Zhan**, Tianming Liu, Yepang Liu, Yang Liu, Li Li, Haoyu Wang, Xiapu Luo, ***IF=6.112*** **<font color='Red'>(CCF-A)</font>**
 
 3.  **<font color='lightskyblue'> [TSE' 21] </font> <font color='limeGreen'>Research on Third-Party Libraries in Android Apps: A Taxonomy and Comprehensive Survey[J] </font>** 
-    **Xian Zhan**, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu **<font color='Red'>(CCF-A)</font>**
+   **Xian Zhan**, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu, ***IF=6.112*** **<font color='Red'>(CCF-A)</font>**
 
