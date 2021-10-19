@@ -22,15 +22,15 @@ My research interests are but not limited to program analysis, system security, 
 Honors and Awards
 ----
 
-<i class="fas fa-crown"></i> ACM SIGSOFT Distinguished Paper (ICSE), 2021
+<i class="fas fa-crown"></i> **ACM SIGSOFT Distinguished Paper (ICSE)**, 2021
 
-<i class="fas fa-crown"></i> The First prize of the Student Research Competition - PolyU COMP Annual Research Day, 2019
+<i class="fas fa-crown"></i> The **First prize** of the Student Research Competition - PolyU COMP Annual Research Day, 2019
 
-<i class="fas fa-crown"></i> The Hong Kong PhD fellowship Award (HKPFS) (about 250 phd students are awarded each year, the most prestige scholarship for HK Ph.D. candidates.)
+<i class="fas fa-crown"></i> **The Hong Kong PhD fellowship Award (HKPFS)** (about 250 phd students are awarded each year, the most prestige scholarship for HK Ph.D. candidates.)
 
 <i class="fas fa-crown"></i> COMP scholarship of the Hong Kong Polytechnic University
 
-<i class="fas fa-crown"></i> Google Excellent Scholarship}, 2012-2013, (Only 66 undergraduates in China were awarded)
+<i class="fas fa-crown"></i> **Google Excellent Scholarship**, 2012-2013, (Only 66 undergraduates in China were awarded)
 
 <i class="fas fa-crown"></i> Wuhan University Excellent Undergraduate (Top 3%)
 
@@ -38,9 +38,9 @@ Honors and Awards
 
 <i class="fas fa-crown"></i> **Leader, First prize** of the Innovation and Entrepreneurship projects for University Students (Top 5\%)
 
-<i class="fas fa-crown"></i> **First prize** of the 6th National Undergraduate Information Security Competition (16/120), 2013
+<i class="fas fa-crown"></i> **First prize** of the ***6th National Undergraduate Information Security Competition (16/120)***, 2013
 
-<i class="fas fa-crown"></i> **First prize** of the 5th National Undergraduate Information Security Competition (16/118), 2012
+<i class="fas fa-crown"></i> **First prize** of the ***5th National Undergraduate Information Security Competition (16/118)***, 2012
 
 <i class="fas fa-crown"></i> **First-class scholarship** of Wuhan University, 2012-2013
 
