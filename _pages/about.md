@@ -36,7 +36,8 @@ Selected Publications
 
 5.  **<font color='lightskyblue'> [ICSE' 21]</font> <font color='limeGreen'>ATVHunter: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Apps[C]</font>**
     **Xian Zhan**, Lingling Fan, Sen Chen, Feng Wu, Tianming Liu, Xiapu Luo and Yang Liu   **<font color='Red'>(CCF-A)</font>**
-      <i class="fas fa-trophy"></i>  ***<font color='Gold'>ACM SIGSOFT Distinguished Paper Award</font>***
+     
+     ***<font color='Gold'> <i class="fas fa-trophy"></i>  ACM SIGSOFT Distinguished Paper Award</font>***
    
   
   
