@@ -22,8 +22,8 @@ My research interests are but not limited to program analysis, system security, 
 Publications
 ---
 
- 1. **[USENIX Security' 21] <font color='limeGreen'> FOAP: Fine-Grained Open-World Android App Fingerprinting[C]</font>**                                  
- Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, **Xian Zhan**, Xiaobo Ma  **<font color='Red'>(CCF-A) **
+ 1. **<font color='lightskyblue'>[USENIX Security' 21]</font> <font color='limeGreen'> FOAP: Fine-Grained Open-World Android App Fingerprinting[C]</font>**                                  
+ Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, **Xian Zhan**, Xiaobo Ma  ** <font color='Red'>(CCF-A)</font> **
 
 
 
