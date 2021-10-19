@@ -44,7 +44,9 @@ Selected Publications
 9.    **<font color='lightskyblue'> [TSE' 20] </font> <font color='limeGreen'> Where2Change: Change Request Localization for App Reviews[J] </font>** 	Tao Zhang, Jiachi Chen, **Xian Zhan**, Xiapu Luo, David Lo, He Jiang ***IF=6.112***, **<font color='Red'>(CCF-A)</font>**
 10.   **<font color='lightskyblue'> [ASE' 19]  </font> <font color='limeGreen'> Demystifying Application Performance Management Libraries for Android[C]</font>**	Yutian Tang, **Xian Zhan**, Hao Zhou, Xiapu Luo and Zhou Xu **<font color='Red'>(CCF-A)</font>**
   
-  
+ 11.   **<font color='lightskyblue'> [SANER' 19]</font> <font color='limeGreen'> A Comparative Study of Android Repackaged Apps Detection Techniques[C] </font>**  **Xian Zhan**, Tao Zhang and Yutian Tang  **<font color='Red'>(CCF-B)</font>**
+ 12.   **<font color='lightskyblue'> [LISA' 14] </font> <font color='limeGreen'> Towards Detecting Target Link Flooding Attack[C] </font>** 	Lei Xue, Xiapu Luo, Edmond Chan, and **Xian Zhan**  **<font color='Red'>(CCF-B)</font>**
+
   
   
   
