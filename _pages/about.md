@@ -22,7 +22,7 @@ My research interests are but not limited to program analysis, system security, 
 Honors and Awards
 ----
 
- <i class="fas fa-crown"></i> <font size='2.5px'>ACM SIGSOFT Distinguished Paper (ICSE), 2021 </font> 
+ <i class="fas fa-crown fa-xs"></i> <font size='2.5px'>ACM SIGSOFT Distinguished Paper (ICSE), 2021 
 
  <i class="fas fa-crown"></i> <font size='2.5px'> The First prize of the Student Research Competition - PolyU COMP Annual Research Day, 2019 </font> 
 
