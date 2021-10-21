@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-I am a Ph.D student from the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). I am also very fortunate to be supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) and [Prof. Yepang Liu](https://yepangliu.github.io/). Before coming to PolyU, I obtained my B.Eng degree in the School of Computer, Wuhan University.
+I am a Ph.D student from the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). I am also very fortunate to be supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) and [Prof. Yepang Liu](https://yepangliu.github.io/). Before coming to PolyU, I obtained my B.Eng degree in the School of Computer, [Wuhan University](https://www.whu.edu.cn/).
 
 My research interests are but not limited to program analysis, system security, mobile security, software ecosystem analysis, and Big data-driven Analysis.
 
@@ -22,7 +22,7 @@ My research interests are but not limited to program analysis, system security, 
 Honors and Awards
 ----
 
-<i class="fas fa-crown"></i> **ACM SIGSOFT Distinguished Paper (ICSE)**, 2021
+<font size='2px'><i class="fas fa-crown"></i> **ACM SIGSOFT Distinguished Paper (ICSE)**, 2021</font>
 
 <i class="fas fa-crown"></i> The **First prize** of the Student Research Competition - PolyU COMP Annual Research Day, 2019
 
