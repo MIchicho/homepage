@@ -30,23 +30,23 @@ Honors and Awards
 
  <i class="fas fa-crown fa-xs"></i> <font size='2.5px'> COMP scholarship of the Hong Kong Polytechnic University </font> 
 
- <i class="fas fa-crown"></i> <font size='2.5px'> Google Excellent Scholarship, 2012-2013, (Only 66 undergraduates in China were awarded) </font> 
+ <i class="fas fa-crown fa-xs"></i> <font size='2.5px'> Google Excellent Scholarship, 2012-2013, (Only 66 undergraduates in China were awarded) </font> 
 
- <i class="fas fa-crown"></i> <font size='2.5px'> Wuhan University Excellent Undergraduate (Top 3%) </font> 
+ <i class="fas fa-crown fa-xs"></i> <font size='2.5px'> Wuhan University Excellent Undergraduate (Top 3%) </font> 
 
-<i class="fas fa-crown"></i> <font size='2.5px'>  Hubei Excellent Undergraduate Thesis Award </font> 
+<i class="fas fa-crown fa-xs"></i> <font size='2.5px'>  Hubei Excellent Undergraduate Thesis Award </font> 
 
- <i class="fas fa-crown"></i> <font size='2.5px'> Leader, First prize of the Innovation and Entrepreneurship projects for University Students (Top 5\%) </font> 
+ <i class="fas fa-crown fa-xs"></i> <font size='2.5px'> Leader, First prize of the Innovation and Entrepreneurship projects for University Students (Top 5\%) </font> 
 
-<i class="fas fa-crown"></i> <font size='2.5px'>  First prize of the 6th National Undergraduate Information Security Competition (16/120), 2013 </font> 
+<i class="fas fa-crown fa-xs"></i> <font size='2.5px'>  First prize of the 6th National Undergraduate Information Security Competition (16/120), 2013 </font> 
 
- <i class="fas fa-crown"></i> <font size='2.5px'> First prize of the 5th National Undergraduate Information Security Competition (16/118), 2012 </font> 
+ <i class="fas fa-crown fa-xs"></i> <font size='2.5px'> First prize of the 5th National Undergraduate Information Security Competition (16/118), 2012 </font> 
 
- <i class="fas fa-crown"></i> <font size='2.5px'> First-class scholarship of Wuhan University, 2012-2013 </font> 
+ <i class="fas fa-crown fa-xs"></i> <font size='2.5px'> First-class scholarship of Wuhan University, 2012-2013 </font> 
 
- <i class="fas fa-crown"></i> <font size='2.5px'> Outstanding student of Wuhan University (3 times), 2011-2013 </font> 
+ <i class="fas fa-crown fa-xs"></i> <font size='2.5px'> Outstanding student of Wuhan University (3 times), 2011-2013 </font> 
 
-<i class="fas fa-crown"></i> <font size='2.5px'>  Second-class scholarship of Wuhan University (2 times), 2011-2012 </font> 
+<i class="fas fa-crown fa-xs"></i> <font size='2.5px'>  Second-class scholarship of Wuhan University (2 times), 2011-2012 </font> 
 
 
 Software Copyright
