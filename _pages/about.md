@@ -22,9 +22,9 @@ My research interests are but not limited to program analysis, system security, 
 Honors and Awards
 ----
 
-<font size='2.5px'> <i class="fas fa-crown"></i>  ACM SIGSOFT Distinguished Paper (ICSE), 2021 </font> 
+ <i class="fas fa-crown"></i> <font size='2.5px'>ACM SIGSOFT Distinguished Paper (ICSE), 2021 </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i>   The First prize of the Student Research Competition - PolyU COMP Annual Research Day, 2019 </font> 
+ <i class="fas fa-crown"></i> <font size='2.5px'> The First prize of the Student Research Competition - PolyU COMP Annual Research Day, 2019 </font> 
 
 <font size='2.5px'> <i class="fas fa-crown"></i> The Hong Kong PhD fellowship Award (HKPFS) (about 250 phd students are awarded each year, the most prestige scholarship for HK Ph.D. candidates.) </font> 
 
