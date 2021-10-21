@@ -24,7 +24,7 @@ Honors and Awards
 
 <i class="fas fa-crown"></i> <font size='2px'> **ACM SIGSOFT Distinguished Paper (ICSE)**, 2021 </font>
 
-<font size='2px'> <i class="fas fa-crown"></i> The **First prize** of the Student Research Competition - PolyU COMP Annual Research Day, 2019 </font>
+<i class="fas fa-crown"></i> <font size='2px'>  The **First prize** of the Student Research Competition - PolyU COMP Annual Research Day, 2019 </font>
 
 <font size='2px'> <i class="fas fa-crown"></i> **The Hong Kong PhD fellowship Award (HKPFS)** (about 250 phd students are awarded each year, the most prestige scholarship for HK Ph.D. candidates.) </font>
 
