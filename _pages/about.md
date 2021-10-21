@@ -28,25 +28,25 @@ Honors and Awards
 
 <font size='2.5px'> <i class="fas fa-crown"></i> The Hong Kong PhD fellowship Award (HKPFS) (about 250 phd students are awarded each year, the most prestige scholarship for HK Ph.D. candidates.) </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> COMP scholarship of the Hong Kong Polytechnic University </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> COMP scholarship of the Hong Kong Polytechnic University </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> Google Excellent Scholarship, 2012-2013, (Only 66 undergraduates in China were awarded) </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> Google Excellent Scholarship, 2012-2013, (Only 66 undergraduates in China were awarded) </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> Wuhan University Excellent Undergraduate (Top 3%) </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> Wuhan University Excellent Undergraduate (Top 3%) </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> Hubei Excellent Undergraduate Thesis Award </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> Hubei Excellent Undergraduate Thesis Award </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> Leader, First prize of the Innovation and Entrepreneurship projects for University Students (Top 5\%) </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> Leader, First prize of the Innovation and Entrepreneurship projects for University Students (Top 5\%) </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> First prize of the 6th National Undergraduate Information Security Competition (16/120), 2013 </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> First prize of the 6th National Undergraduate Information Security Competition (16/120), 2013 </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> First prize of the 5th National Undergraduate Information Security Competition (16/118), 2012 </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> First prize of the 5th National Undergraduate Information Security Competition (16/118), 2012 </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> First-class scholarship of Wuhan University, 2012-2013 </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> First-class scholarship of Wuhan University, 2012-2013 </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i>  Outstanding student of Wuhan University (3 times), 2011-2013 </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i>  Outstanding student of Wuhan University (3 times), 2011-2013 </font> 
 
-<font size='2.5px'> <i class="fas fa-crown"></i> Second-class scholarship of Wuhan University (2 times), 2011-2012 </font> <br>
+<font size='2.5px'> <i class="fas fa-crown"></i> Second-class scholarship of Wuhan University (2 times), 2011-2012 </font> 
 
 
 Software Copyright
