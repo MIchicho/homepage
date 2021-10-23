@@ -1,10 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "COMP 3222, "
 collection: teaching
-type: "Undergraduate course"
+type: "Software Testing and Quality Assurance. Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "PolyU, COMP"
 location: "City, Country"
 ---
 
