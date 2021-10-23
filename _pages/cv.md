@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Work Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.8--2020.12: Software Composition Analysis System Development
+  * Scantist 
+  * A project detects the third-party libraries in Android apps and finds the vulnerable versions
+  * Responsible for the core algorithm design and demo implementation. Partial test document writing
+  * Supervisor: Professor Yang Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2014.12--2015.5: ResDroid:Towards a Scalable Resource-driven Approach for Detecting Repackaged Android Application
+  * The Hong Kong Polytechnic University
+  * A project detects repackaged apps from core resources and code
+  * Re-implement the entire project and modify the Gator to handle more UIs
+  * Supervisor: Professor Xiapu Luo
+
+* 2013.3--2014.6
+
 
 Publications
 ======
