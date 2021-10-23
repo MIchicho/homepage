@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "COMP 1411"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Polyu, COMP"
+date: 2016
 location: "City, Country"
 ---
 
