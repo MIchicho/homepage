@@ -4,7 +4,7 @@ collection: teaching
 type: "Software Testing and Quality Assurance. Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "PolyU, COMP"
-location: "City, Country"
+location: "Hong Kong, Hong Hum"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
